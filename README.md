@@ -24,17 +24,6 @@ Airbnb, as a global travel platform with millions of listings and users, aims to
 ## Business Objective
 Enhancing Customer Experience and Increasing Host Engagement on Airbnb Platform
 
-## Findings
-In this data visualization project, we have uncovered several key insights:
-
-### Overview of Airbnb
-Popular neighborhoods, their average prices, and the number of listings have been identified, helping potential travelers and hosts make informed decisions.
-### Property Analysis
-The percentage share of different property types and room types has been visualized, providing a clear understanding of the distribution.
-### Pricing Analysis
-The pricing trends based on location and property type have been explored, allowing travelers and hosts to set competitive prices.
-### Host Analysis
-Correlations between types of hosts and factors like reviews and pricing have been examined, offering insights into host performance.
 ### Conclusion
 In conclusion, this data visualization project has provided valuable insights for both Airbnb travelers and hosts. These findings can guide strategic decisions and improvements to enhance the overall Airbnb experience, including:
 
